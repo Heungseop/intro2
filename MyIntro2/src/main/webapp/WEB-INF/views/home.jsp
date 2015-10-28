@@ -40,7 +40,7 @@
 			<header class="major">
 				<h2>김흥섭</h2>
 			</header>
-			<p style="height: 300px;">
+			<p>
 				<span class="image left"><img src="images/avt.png" alt="" /></span>
 				91년생 호서대학교 컴퓨터공학 전공 <br>jsp 웹 프로그래밍을 공부했고 부가적으로 Jquery, html,
 				JavaScript, css, BootStrap, Json, Ajax, api, Spring, mvc, jdbc,
@@ -52,7 +52,6 @@
 			</p>
 
 		</section>
-
 		<!-- Two -->
 		<section id="two">
 			<h2>Recent Work</h2>
