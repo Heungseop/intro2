@@ -27,7 +27,7 @@
 		<a href="#" class="image avatar"><img src="images/avatar.png"
 			alt="" /></a>
 		<h1>
-			Hello. <br /> <strong>I'm Heung Seop</strong>, a Web Programmer.<br />
+			Hello. <br> <strong>I'm Heung Seop</strong>, a Web Programmer.<br />
 			I learned at Hoseo University.
 		</h1>
 	</header>
