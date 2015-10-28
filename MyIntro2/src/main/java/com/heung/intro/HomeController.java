@@ -1,8 +1,5 @@
 package com.heung.intro;
 
-import java.lang.ProcessBuilder.Redirect;
-import java.text.DateFormat;
-import java.util.Date;
 import java.util.Locale;
 import java.util.Properties;
 
@@ -66,13 +63,14 @@ public class HomeController {
 		});
 
 		try {
-
-			Message message = new MimeMessage(session);
+			MimeMessage message = new MimeMessage(session);
+//			Message message = new MimeMessage(session);
+			
+			message.setContent(message, "text/html; charset=utf-8");
 			message.setFrom(new InternetAddress(email));
 			message.setRecipients(Message.RecipientType.TO, InternetAddress.parse("imt300@naver.com"));
 			message.setSubject(name+"의 메세지");
 			message.setText(msg+"\n\n\n\n by "+name+" mail:"+email);
-
 			Transport.send(message);
 
 			System.out.println("Done");
