@@ -462,9 +462,9 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 	<footer id="footer">
 		<ul class="icons">
 			<li><a
-				href="http://www.facebook.com/profile.php?id=100002229033078"
+				href="https://www.facebook.com/profile.php?id=100002229033078"
 				class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="http://instagram.com/heungg"
+			<li><a href="https://instagram.com/heungg"
 				class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 			<li><a href="http://github.com/Heungseop"
 				class="icon fa-github"><span class="label">Github</span></a></li>
