@@ -44,9 +44,9 @@
 				<span class="image left"><img src="images/avt.png" alt="" /></span>
 				91년생 호서대학교 컴퓨터공학 전공 <br>jsp 웹 프로그래밍을 공부했고 부가적으로 Jquery, html,
 				JavaScript, css, BootStrap, Json, Ajax, api, Spring, mvc, jdbc,
-				MyBatis, Oracle, MySQL을 공부했다 물론 전부를 능숙하게 다루는 것은 아니지만 왠만큼은 다룬다고 스스로
+				MyBatis, Oracle, MySQL을 공부했다 물론 전부를 능숙하게 다루는 것은 아니지만 웬만큼은 다룬다고 스스로
 				생각한다 <br> 졸업프로젝트로 여행지 코스 제작을 주제로 힐링사이트를 만들었는데 솔직히 지금 디자인, 보안
-				두가지가 마음에 안든다 조만간 바꿀 예정인데 아직 바꾸지 않았고 모바일 페이지를 따로 둘까 반응형으로 꿀까 앱을 만들까
+				두가지가 마음에 안든다 조만간 바꿀 예정인데 아직 바꾸지 않았고 모바일 페이지를 따로 둘까 반응형으로 바꿀까 앱을 만들까
 				고민중인데 아무튼 조만간 바꿀거다 <br> 사진 찍는 것을 좋아하지만 근래에는 찍을 일이 없어 아쉽다. 또 사진을
 				찍다보면 정작 내가 찍힌 사진이 별로없어 항상 아쉽다. 여자친구 생기면 많이 찍어주겠지 --
 			</p>
@@ -462,13 +462,13 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 	<footer id="footer">
 		<ul class="icons">
 			<li><a
-				href="https://www.facebook.com/profile.php?id=100002229033078"
+				href="http://www.facebook.com/profile.php?id=100002229033078"
 				class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 			<li><a href="http://instagram.com/heungg"
 				class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="https://github.com/Heungseop"
+			<li><a href="http://github.com/Heungseop"
 				class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="https://healingg.xo.st" class="icon fa-dribbble"><span
+			<li><a href="http://healingg.xo.st" class="icon fa-dribbble"><span
 					class="label">Healing</span></a></li>
 
 		</ul>
