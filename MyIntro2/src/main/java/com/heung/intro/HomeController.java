@@ -43,8 +43,8 @@ public class HomeController {
 	@RequestMapping(value = "/sendmail", method = RequestMethod.POST)
 	public String mail(Model model, @RequestParam String name, @RequestParam String email, 
 			@RequestParam String msg) {
-		System.out.println(name);
-		System.out.println(email);
+		System.out.println("name : "+ name);
+		System.out.println("email : "+email);
 		System.out.println("message : "+ msg);
 
 		final String username = "heungsup91@gmail.com";
